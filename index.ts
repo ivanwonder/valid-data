@@ -71,4 +71,4 @@ class ValidValue extends ValidBase {
   }
 }
 
-export { ValidArray, ValidGroup, ValidValue };
+export { ValidArray, ValidGroup, ValidValue, ValidBase };
