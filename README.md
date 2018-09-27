@@ -22,4 +22,5 @@ const valid = new ValidGroup({
 });
 valid.do(data);
 ```
+
 use `valid.valid` to get the result(true | false);
