@@ -1,7 +1,7 @@
 {
   "name": "valid-data",
   "version": "0.0.1",
-  "description": "",
+  "description": "validate JSON by own structure",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "directories": {
@@ -11,7 +11,11 @@
     "test": "mocha --require ts-node/register",
     "build": "tsc"
   },
-  "author": "",
+  "author": "ivanwonder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanwonder/valid-data.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "mocha": "^5.2.0",
