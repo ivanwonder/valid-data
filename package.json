@@ -1,6 +1,6 @@
 {
   "name": "valid-data",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "validate JSON by own structure",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
